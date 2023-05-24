@@ -130,7 +130,7 @@ a.rstpw:hover{
 /* footer */
 footer {
     background-color: var(--main-color);
-    position: sticky;
+    position: fixed;
     width: 100%;
     bottom: 0;
 }
